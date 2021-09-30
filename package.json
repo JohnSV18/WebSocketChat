@@ -1,5 +1,5 @@
 {
-    "name": "WebsocketChatApp",
+    "name": "WebsocketChat",
     "version": "0.0.1",
     "description": "Chat socket.io app",
     "dependencies": {
